@@ -1,7 +1,7 @@
- ### **Overview**
+**Overview**
     ROASMaster is a user-friendly web application that empowers businesses to optimize their advertising strategies by accurately calculating their ROAS and suggesting actionable steps to improve it. The app provides a clear understanding of advertising efficiency, enabling data-driven decision-making.
 
-    ### **Key Features**
+**Key Features**
     - **ROAS Calculator**:
       - Users can input their revenue and cost to calculate the current ROAS.
       - Real-time calculations and instant feedback for improved usability.
